@@ -14,6 +14,8 @@ Currently, I'm studying Machine Learning and expanding my knowledge in this fiel
 
 ###
 
+<img src = "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F105553185002480695%2F&ved=0CBUQjRxqFwoTCNjM_azJr5MDFQAAAAAdAAAAABA5&opi=89978449" /> 
+
 <h2 align="left">I code with</h2>
 
 ###
